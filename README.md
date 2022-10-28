@@ -1,0 +1,2 @@
+# inetkill
+Internet Kill Switch
