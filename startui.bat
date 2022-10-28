@@ -1,0 +1,1 @@
+start rundll32.exe inetkill.dll,start %1
