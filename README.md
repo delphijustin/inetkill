@@ -10,7 +10,11 @@ GATEWAY.
 
 You can do that by typing:
 
-rundll32 inetkill.dll,registerGateway your_router_ip
+rundll32 inetkill.dll,registerGateway your_router_local_gateway_ip
+
+You can find the local gateway by typing:
+
+ipconfig
 
 For help type
 
